@@ -1,6 +1,6 @@
-# Lab 2: Geotagged Tweets
+# Project: Geotagged Tweets
 
-This lab looks at geotagged tweets from two different time periods in the United States. The first was taken on April 20th at 11:49pm PST, and the second was captured midday on April 21st at 11:32am PST. I chose these two periods in order to see how tweets change in content during the day compared to later at night. Both snapshots were taken from tweets in a 10 minute duration occuring within the United States that were written in english. Another factor that remained consistent between both time periods was them both occuring during the work week rather than during the weekend.
+This project looks at geotagged tweets from two different time periods in the United States. The first was taken on April 20th at 11:49pm PST, and the second was captured midday on April 21st at 11:32am PST. I chose these two periods in order to see how tweets change in content during the day compared to later at night. Both snapshots were taken from tweets in a 10 minute duration occuring within the United States that were written in english. Another factor that remained consistent between both time periods was them both occuring during the work week rather than during the weekend.
 
 ---
 ## Tweet Locations
